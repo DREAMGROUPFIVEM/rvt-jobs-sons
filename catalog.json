@@ -212,11 +212,52 @@
    ],
    "vol": 0.9
   },
+  "hunter.carne_saco": {
+   "files": [
+    "hunter/carne_saco_1.ogg",
+    "hunter/carne_saco_2.ogg"
+   ],
+   "vol": 0.8
+  },
+  "hunter.corte": {
+   "files": [
+    "hunter/corte_1.ogg"
+   ],
+   "vol": 0.7
+  },
+  "hunter.couro_dobra": {
+   "files": [
+    "hunter/couro_dobra_1.ogg",
+    "hunter/couro_dobra_2.ogg"
+   ],
+   "vol": 0.7
+  },
   "hunter.encaixar": {
    "files": [
     "hunter/encaixar_1.ogg"
    ],
    "vol": 0.9
+  },
+  "hunter.estica": {
+   "files": [
+    "hunter/estica_1.ogg",
+    "hunter/estica_2.ogg"
+   ],
+   "vol": 0.7
+  },
+  "hunter.faca_entra": {
+   "files": [
+    "hunter/faca_entra_1.ogg",
+    "hunter/faca_entra_2.ogg",
+    "hunter/faca_entra_3.ogg"
+   ],
+   "vol": 0.8
+  },
+  "hunter.faca_saca": {
+   "files": [
+    "hunter/faca_saca_1.ogg"
+   ],
+   "vol": 0.7
   },
   "hunter.madeira": {
    "files": [
@@ -227,6 +268,21 @@
   "hunter.puxar": {
    "files": [
     "hunter/puxar_1.ogg"
+   ],
+   "vol": 0.9
+  },
+  "hunter.rasga": {
+   "files": [
+    "hunter/rasga_1.ogg",
+    "hunter/rasga_2.ogg",
+    "hunter/rasga_3.ogg"
+   ],
+   "vol": 0.8
+  },
+  "hunter.rasga_forte": {
+   "files": [
+    "hunter/rasga_forte_1.ogg",
+    "hunter/rasga_forte_2.ogg"
    ],
    "vol": 0.9
   },

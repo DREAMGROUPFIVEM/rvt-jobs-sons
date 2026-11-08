@@ -51,14 +51,24 @@ saco_716928  https://freesound.org/people/vhschool2019/sounds/716928/
 aljava_709597  https://freesound.org/people/AlexCoover/sounds/709597/
 alvo02_534945  https://freesound.org/people/JoeDinesSound/sounds/534945/
 alvo07_534950  https://freesound.org/people/JoeDinesSound/sounds/534950/
+bainha_466216  https://freesound.org/people/Harrisando/sounds/466216/
+carnelama_211605  https://freesound.org/people/qubodup/sounds/211605/
+cera_610546  https://freesound.org/people/qubodup/sounds/610546/
+couro_338213  https://freesound.org/people/unreadpages/sounds/338213/
+couro_770050  https://freesound.org/people/Vrymaa/sounds/770050/
 foley01_534955  https://freesound.org/people/JoeDinesSound/sounds/534955/
 foley02_534951  https://freesound.org/people/JoeDinesSound/sounds/534951/
 foley03_534953  https://freesound.org/people/JoeDinesSound/sounds/534953/
+jab_840618  https://freesound.org/people/MrGungus/sounds/840618/
 madeira01_534956  https://freesound.org/people/JoeDinesSound/sounds/534956/
 puxar_490556  https://freesound.org/people/Paveroux/sounds/490556/
 recolher01_534954  https://freesound.org/people/JoeDinesSound/sounds/534954/
+saco_515912  https://freesound.org/people/Wildersound/sounds/515912/
+saco_520581  https://freesound.org/people/msavioti/sounds/520581/
+serra_637641  https://freesound.org/people/kyles/sounds/637641/
 shoot02_534941  https://freesound.org/people/JoeDinesSound/sounds/534941/
 soltar_384917  https://freesound.org/people/Ali_6868/sounds/384917/
+stab_635049  https://freesound.org/people/sillygrizzlies/sounds/635049/
 
 [lineman]
 s130154  https://freesound.org/people/sribubba/sounds/130154/
