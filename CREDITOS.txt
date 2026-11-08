@@ -1,0 +1,139 @@
+Sons dos empregos do rvt_jobs (Neon). Gravações reais do freesound.org, todas em Creative Commons 0
+(domínio público). Foram só cortadas, normalizadas, com fade e às vezes filtradas; nada sintetizado.
+
+[bancada]
+balcao_398281  https://freesound.org/people/FlashTrauma/sounds/398281/
+batata_667767  https://freesound.org/people/nicandali/sounds/667767/
+borrifo_235621  https://freesound.org/people/vmgraw/sounds/235621/
+borrifo_536407  https://freesound.org/people/Rudmer_Rotteveel/sounds/536407/
+carne_581640  https://freesound.org/people/zar.265/sounds/581640/
+cesto_637625  https://freesound.org/people/kyles/sounds/637625/
+chiado_432151  https://freesound.org/people/pooky1/sounds/432151/
+chuveiro_876140  https://freesound.org/people/Mihacappy/sounds/876140/
+espatula_370739  https://freesound.org/people/Jadester64/sounds/370739/
+esponja_720881  https://freesound.org/people/oldrascal/sounds/720881/
+fritura_455653  https://freesound.org/people/Audeption/sounds/455653/
+impressora_476011  https://freesound.org/people/thepodcastdoctor/sounds/476011/
+ketchup_676371  https://freesound.org/people/gmsmith1918/sounds/676371/
+papel_634323  https://freesound.org/people/uniuniversal/sounds/634323/
+pop_683587  https://freesound.org/people/YehawSnail/sounds/683587/
+pop_868712  https://freesound.org/people/BenParamoreAudio/sounds/868712/
+sacudida_469762  https://freesound.org/people/ReaperWorks/sounds/469762/
+sacudida_625060  https://freesound.org/people/Nokta/sounds/625060/
+secador_390239  https://freesound.org/people/loullipop/sounds/390239/
+sino_445104  https://freesound.org/people/LilMati/sounds/445104/
+tesoura_390165  https://freesound.org/people/megashroom/sounds/390165/
+tesoura_390169  https://freesound.org/people/megashroom/sounds/390169/
+tick_384187  https://freesound.org/people/malle99/sounds/384187/
+tick_496760  https://freesound.org/people/malle99/sounds/496760/
+unha_495844  https://freesound.org/people/lighteningjimmy88/sounds/495844/
+
+[bus]
+porta_379372  https://freesound.org/people/13FPanska_Sychra_Petr/sounds/379372/
+sino_475211  https://freesound.org/people/peteberry007/sounds/475211/
+
+[diver]
+bub_185367  https://freesound.org/people/Yuval/sounds/185367/
+bub_634225  https://freesound.org/people/sbvitug/sounds/634225/
+exh_274491  https://freesound.org/people/timsc/sounds/274491/
+reg_518619  https://freesound.org/people/ddaedalus/sounds/518619/
+spl_703511  https://freesound.org/people/JfishSoM/sounds/703511/
+spl_807962  https://freesound.org/people/Logicogonist/sounds/807962/
+
+[fooddelivery]
+batida_193873  https://freesound.org/people/Ligidium/sounds/193873/
+batida_268500  https://freesound.org/people/wjtaylor/sounds/268500/
+campainha_786690  https://freesound.org/people/srorie2/sounds/786690/
+saco_545532  https://freesound.org/people/rsellick/sounds/545532/
+saco_716928  https://freesound.org/people/vhschool2019/sounds/716928/
+
+[hunter]
+aljava_709597  https://freesound.org/people/AlexCoover/sounds/709597/
+alvo02_534945  https://freesound.org/people/JoeDinesSound/sounds/534945/
+alvo07_534950  https://freesound.org/people/JoeDinesSound/sounds/534950/
+foley01_534955  https://freesound.org/people/JoeDinesSound/sounds/534955/
+foley02_534951  https://freesound.org/people/JoeDinesSound/sounds/534951/
+foley03_534953  https://freesound.org/people/JoeDinesSound/sounds/534953/
+madeira01_534956  https://freesound.org/people/JoeDinesSound/sounds/534956/
+puxar_490556  https://freesound.org/people/Paveroux/sounds/490556/
+recolher01_534954  https://freesound.org/people/JoeDinesSound/sounds/534954/
+shoot02_534941  https://freesound.org/people/JoeDinesSound/sounds/534941/
+soltar_384917  https://freesound.org/people/Ali_6868/sounds/384917/
+
+[lineman]
+s130154  https://freesound.org/people/sribubba/sounds/130154/
+s131599  https://freesound.org/people/EchoCinematics/sounds/131599/
+s396470  https://freesound.org/people/kev_durr/sounds/396470/
+s403075  https://freesound.org/people/chainsaw_dinner_party/sounds/403075/
+s449719  https://freesound.org/people/ihitokage/sounds/449719/
+s496528  https://freesound.org/people/tosha73/sounds/496528/
+s522690  https://freesound.org/people/julianmateo_/sounds/522690/
+s637811  https://freesound.org/people/kyles/sounds/637811/
+
+[lumberjack]
+s140047  https://freesound.org/people/felix.blume/sounds/140047/
+s438343  https://freesound.org/people/craigsmith/sounds/438343/
+s494071  https://freesound.org/people/Kinoton/sounds/494071/
+s706978  https://freesound.org/people/JesterWhoo/sounds/706978/
+s726217  https://freesound.org/people/Sacha.Julien/sounds/726217/
+s847818  https://freesound.org/people/ElSchorscho/sounds/847818/
+
+[miner]
+s155934  https://freesound.org/people/ALLANZ10D/sounds/155934/
+s233633  https://freesound.org/people/abstraktgeneriert/sounds/233633/
+s391919  https://freesound.org/people/Trancox/sounds/391919/
+s435711  https://freesound.org/people/Amusquiz99/sounds/435711/
+s504389  https://freesound.org/people/Joao_Janz/sounds/504389/
+s567249  https://freesound.org/people/iwanPlays/sounds/567249/
+s567250  https://freesound.org/people/iwanPlays/sounds/567250/
+s638696  https://freesound.org/people/CaptainYulef/sounds/638696/
+s760567  https://freesound.org/people/NoisyRedFox/sounds/760567/
+s835173  https://freesound.org/people/Mihacappy/sounds/835173/
+
+[movers]
+box_463641  https://freesound.org/people/alec_mackay/sounds/463641/
+door_361823  https://freesound.org/people/Jofae/sounds/361823/
+door_450225  https://freesound.org/people/kyles/sounds/450225/
+drag_377016  https://freesound.org/people/Mrthenoronha/sounds/377016/
+drop_465451  https://freesound.org/people/ittou/sounds/465451/
+hand_459445  https://freesound.org/people/Coral_Island_Studios/sounds/459445/
+log_584891  https://freesound.org/people/KrystianPawlowski/sounds/584891/
+push_565727  https://freesound.org/people/ralph.whitehead/sounds/565727/
+thud_400188  https://freesound.org/people/opriema/sounds/400188/
+
+[postop]
+caixas_452569  https://freesound.org/people/kyles/sounds/452569/
+mesa_491094  https://freesound.org/people/FlirtFM/sounds/491094/
+queda_346169  https://freesound.org/people/VSokorelos/sounds/346169/
+queda_465451  https://freesound.org/people/ittou/sounds/465451/
+van_329623  https://freesound.org/people/LOVEBURD/sounds/329623/
+
+[taxi]
+ding_453763  https://freesound.org/people/kyles/sounds/453763/
+porta_450225  https://freesound.org/people/kyles/sounds/450225/
+porta_488053  https://freesound.org/people/BenDrain/sounds/488053/
+taximetro_529242  https://freesound.org/people/orelbitan/sounds/529242/
+
+[trash]
+compactor_678342  https://freesound.org/people/msx2plus/sounds/678342/
+hidraulica_454033  https://freesound.org/people/kyles/sounds/454033/
+jogar_138047  https://freesound.org/people/daboy291/sounds/138047/
+saco_138046  https://freesound.org/people/daboy291/sounds/138046/
+tampa_637509  https://freesound.org/people/kyles/sounds/637509/
+tampa_660566  https://freesound.org/people/cfedorek16/sounds/660566/
+
+[trawler]
+crank_760623  https://freesound.org/people/mm4wood/sounds/760623/
+flap_649003  https://freesound.org/people/ramattahatta/sounds/649003/
+flop_570208  https://freesound.org/people/RatBird/sounds/570208/
+pulley_394222  https://freesound.org/people/mikewest/sounds/394222/
+rope_574153  https://freesound.org/people/MWsfx/sounds/574153/
+sand_679389  https://freesound.org/people/adviseme333/sounds/679389/
+winch_454148  https://freesound.org/people/kyles/sounds/454148/
+
+[trucker]
+engate_165167  https://freesound.org/people/goose278/sounds/165167/
+freio_457294  https://freesound.org/people/brunoboselli/sounds/457294/
+freio_504865  https://freesound.org/people/rabbydaw/sounds/504865/
+freio_823069  https://freesound.org/people/Filmscore/sounds/823069/
+

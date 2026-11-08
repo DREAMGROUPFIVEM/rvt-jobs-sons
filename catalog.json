@@ -1,0 +1,503 @@
+{
+ "version": 1,
+ "sounds": {
+  "bancada.balcao": {
+   "files": [
+    "bancada/balcao_1.ogg"
+   ],
+   "vol": 0.9
+  },
+  "bancada.borbulha": {
+   "files": [
+    "bancada/borbulha_1.ogg"
+   ],
+   "vol": 0.9
+  },
+  "bancada.borrifo": {
+   "files": [
+    "bancada/borrifo_1.ogg",
+    "bancada/borrifo_2.ogg"
+   ],
+   "vol": 0.9
+  },
+  "bancada.chiado": {
+   "files": [
+    "bancada/chiado_1.ogg"
+   ],
+   "vol": 0.9
+  },
+  "bancada.chuveiro": {
+   "files": [
+    "bancada/chuveiro_1.ogg"
+   ],
+   "vol": 0.9
+  },
+  "bancada.esponja": {
+   "files": [
+    "bancada/esponja_1.ogg"
+   ],
+   "vol": 0.9
+  },
+  "bancada.flip": {
+   "files": [
+    "bancada/flip_1.ogg"
+   ],
+   "vol": 0.9
+  },
+  "bancada.fritadeira": {
+   "files": [
+    "bancada/fritadeira_1.ogg",
+    "bancada/fritadeira_2.ogg"
+   ],
+   "vol": 0.9
+  },
+  "bancada.impressora": {
+   "files": [
+    "bancada/impressora_1.ogg"
+   ],
+   "vol": 0.9
+  },
+  "bancada.molho": {
+   "files": [
+    "bancada/molho_1.ogg",
+    "bancada/molho_2.ogg"
+   ],
+   "vol": 0.9
+  },
+  "bancada.papel": {
+   "files": [
+    "bancada/papel_1.ogg",
+    "bancada/papel_2.ogg"
+   ],
+   "vol": 0.9
+  },
+  "bancada.pop": {
+   "files": [
+    "bancada/pop_1.ogg",
+    "bancada/pop_2.ogg"
+   ],
+   "vol": 0.9
+  },
+  "bancada.raspar": {
+   "files": [
+    "bancada/raspar_1.ogg",
+    "bancada/raspar_2.ogg",
+    "bancada/raspar_3.ogg",
+    "bancada/raspar_4.ogg"
+   ],
+   "vol": 0.9
+  },
+  "bancada.sacudida": {
+   "files": [
+    "bancada/sacudida_1.ogg",
+    "bancada/sacudida_2.ogg"
+   ],
+   "vol": 0.9
+  },
+  "bancada.sear": {
+   "files": [
+    "bancada/sear_1.ogg"
+   ],
+   "vol": 0.9
+  },
+  "bancada.secador": {
+   "files": [
+    "bancada/secador_1.ogg"
+   ],
+   "vol": 0.9
+  },
+  "bancada.sino": {
+   "files": [
+    "bancada/sino_1.ogg"
+   ],
+   "vol": 0.9
+  },
+  "bancada.tesoura": {
+   "files": [
+    "bancada/tesoura_1.ogg",
+    "bancada/tesoura_2.ogg",
+    "bancada/tesoura_3.ogg"
+   ],
+   "vol": 0.9
+  },
+  "bancada.tesoura_ar": {
+   "files": [
+    "bancada/tesoura_ar_1.ogg",
+    "bancada/tesoura_ar_2.ogg"
+   ],
+   "vol": 0.9
+  },
+  "bancada.tick": {
+   "files": [
+    "bancada/tick_1.ogg",
+    "bancada/tick_2.ogg"
+   ],
+   "vol": 0.9
+  },
+  "bancada.unha": {
+   "files": [
+    "bancada/unha_1.ogg",
+    "bancada/unha_2.ogg",
+    "bancada/unha_3.ogg"
+   ],
+   "vol": 0.9
+  },
+  "bus.porta": {
+   "files": [
+    "bus/porta_1.ogg",
+    "bus/porta_2.ogg"
+   ],
+   "vol": 0.7
+  },
+  "bus.sino": {
+   "files": [
+    "bus/sino_1.ogg",
+    "bus/sino_2.ogg"
+   ],
+   "vol": 0.6
+  },
+  "diver.bolhas": {
+   "files": [
+    "diver/bolhas_1.ogg",
+    "diver/bolhas_2.ogg",
+    "diver/bolhas_3.ogg"
+   ],
+   "vol": 0.7
+  },
+  "diver.pegar": {
+   "files": [
+    "diver/pegar_1.ogg",
+    "diver/pegar_2.ogg"
+   ],
+   "vol": 0.7
+  },
+  "diver.respira": {
+   "files": [
+    "diver/respira_1.ogg"
+   ],
+   "vol": 0.6
+  },
+  "diver.splash": {
+   "files": [
+    "diver/splash_1.ogg",
+    "diver/splash_2.ogg"
+   ],
+   "vol": 0.8
+  },
+  "fooddelivery.batida": {
+   "files": [
+    "fooddelivery/batida_1.ogg",
+    "fooddelivery/batida_2.ogg"
+   ],
+   "vol": 0.8
+  },
+  "fooddelivery.campainha": {
+   "files": [
+    "fooddelivery/campainha_1.ogg"
+   ],
+   "vol": 0.6
+  },
+  "fooddelivery.sacola": {
+   "files": [
+    "fooddelivery/sacola_1.ogg",
+    "fooddelivery/sacola_2.ogg",
+    "fooddelivery/sacola_3.ogg"
+   ],
+   "vol": 0.7
+  },
+  "hunter.carne": {
+   "files": [
+    "hunter/carne_1.ogg",
+    "hunter/carne_2.ogg"
+   ],
+   "vol": 0.9
+  },
+  "hunter.encaixar": {
+   "files": [
+    "hunter/encaixar_1.ogg"
+   ],
+   "vol": 0.9
+  },
+  "hunter.madeira": {
+   "files": [
+    "hunter/madeira_1.ogg"
+   ],
+   "vol": 0.9
+  },
+  "hunter.puxar": {
+   "files": [
+    "hunter/puxar_1.ogg"
+   ],
+   "vol": 0.9
+  },
+  "hunter.recolher": {
+   "files": [
+    "hunter/recolher_1.ogg"
+   ],
+   "vol": 0.9
+  },
+  "hunter.soltar": {
+   "files": [
+    "hunter/soltar_1.ogg",
+    "hunter/soltar_2.ogg",
+    "hunter/soltar_3.ogg"
+   ],
+   "vol": 0.9
+  },
+  "lineman.cesta": {
+   "files": [
+    "lineman/cesta_1.ogg",
+    "lineman/cesta_2.ogg"
+   ],
+   "vol": 0.5
+  },
+  "lineman.choque": {
+   "files": [
+    "lineman/choque_1.ogg",
+    "lineman/choque_2.ogg"
+   ],
+   "vol": 0.85
+  },
+  "lineman.disjuntor": {
+   "files": [
+    "lineman/disjuntor_1.ogg",
+    "lineman/disjuntor_2.ogg"
+   ],
+   "vol": 0.8
+  },
+  "lineman.faisca": {
+   "files": [
+    "lineman/faisca_1.ogg",
+    "lineman/faisca_2.ogg",
+    "lineman/faisca_3.ogg"
+   ],
+   "vol": 0.6
+  },
+  "lineman.ferramenta": {
+   "files": [
+    "lineman/ferramenta_1.ogg",
+    "lineman/ferramenta_2.ogg"
+   ],
+   "vol": 0.6
+  },
+  "lumberjack.estalo": {
+   "files": [
+    "lumberjack/estalo_1.ogg",
+    "lumberjack/estalo_2.ogg"
+   ],
+   "vol": 0.8
+  },
+  "lumberjack.machado": {
+   "files": [
+    "lumberjack/machado_1.ogg",
+    "lumberjack/machado_2.ogg",
+    "lumberjack/machado_3.ogg",
+    "lumberjack/machado_4.ogg",
+    "lumberjack/machado_5.ogg"
+   ],
+   "vol": 0.85
+  },
+  "lumberjack.queda": {
+   "files": [
+    "lumberjack/queda_1.ogg",
+    "lumberjack/queda_2.ogg"
+   ],
+   "vol": 0.9
+  },
+  "miner.carrinho": {
+   "files": [
+    "miner/carrinho_1.ogg"
+   ],
+   "vol": 0.7
+  },
+  "miner.instalar": {
+   "files": [
+    "miner/instalar_1.ogg"
+   ],
+   "vol": 0.8
+  },
+  "miner.pedra": {
+   "files": [
+    "miner/pedra_1.ogg",
+    "miner/pedra_2.ogg",
+    "miner/pedra_3.ogg"
+   ],
+   "vol": 0.75
+  },
+  "miner.pegar": {
+   "files": [
+    "miner/pegar_1.ogg",
+    "miner/pegar_2.ogg"
+   ],
+   "vol": 0.7
+  },
+  "miner.picareta": {
+   "files": [
+    "miner/picareta_1.ogg",
+    "miner/picareta_2.ogg",
+    "miner/picareta_3.ogg"
+   ],
+   "vol": 0.85
+  },
+  "movers.caminhao": {
+   "files": [
+    "movers/caminhao_1.ogg",
+    "movers/caminhao_2.ogg"
+   ],
+   "vol": 0.8
+  },
+  "movers.carrinho": {
+   "files": [
+    "movers/carrinho_1.ogg",
+    "movers/carrinho_2.ogg"
+   ],
+   "vol": 0.7
+  },
+  "movers.montar": {
+   "files": [
+    "movers/montar_1.ogg",
+    "movers/montar_2.ogg"
+   ],
+   "vol": 0.85
+  },
+  "movers.pegar": {
+   "files": [
+    "movers/pegar_1.ogg",
+    "movers/pegar_2.ogg"
+   ],
+   "vol": 0.8
+  },
+  "movers.soltar": {
+   "files": [
+    "movers/soltar_1.ogg",
+    "movers/soltar_2.ogg",
+    "movers/soltar_3.ogg"
+   ],
+   "vol": 0.8
+  },
+  "postop.caixa": {
+   "files": [
+    "postop/caixa_1.ogg",
+    "postop/caixa_2.ogg",
+    "postop/caixa_3.ogg"
+   ],
+   "vol": 0.7
+  },
+  "postop.caixa_baixar": {
+   "files": [
+    "postop/caixa_baixar_1.ogg",
+    "postop/caixa_baixar_2.ogg",
+    "postop/caixa_baixar_3.ogg"
+   ],
+   "vol": 0.7
+  },
+  "postop.van_abrir": {
+   "files": [
+    "postop/van_abrir_1.ogg"
+   ],
+   "vol": 0.7
+  },
+  "postop.van_fechar": {
+   "files": [
+    "postop/van_fechar_1.ogg"
+   ],
+   "vol": 0.7
+  },
+  "taxi.porta": {
+   "files": [
+    "taxi/porta_1.ogg",
+    "taxi/porta_2.ogg",
+    "taxi/porta_3.ogg"
+   ],
+   "vol": 0.8
+  },
+  "taxi.taximetro": {
+   "files": [
+    "taxi/taximetro_1.ogg"
+   ],
+   "vol": 0.7
+  },
+  "taxi.taximetro_fim": {
+   "files": [
+    "taxi/taximetro_fim_1.ogg",
+    "taxi/taximetro_fim_2.ogg"
+   ],
+   "vol": 0.6
+  },
+  "trash.arremesso": {
+   "files": [
+    "trash/arremesso_1.ogg",
+    "trash/arremesso_2.ogg",
+    "trash/arremesso_3.ogg"
+   ],
+   "vol": 0.8
+  },
+  "trash.compactador": {
+   "files": [
+    "trash/compactador_1.ogg",
+    "trash/compactador_2.ogg"
+   ],
+   "vol": 0.6
+  },
+  "trash.lixeira": {
+   "files": [
+    "trash/lixeira_1.ogg",
+    "trash/lixeira_2.ogg",
+    "trash/lixeira_3.ogg"
+   ],
+   "vol": 0.7
+  },
+  "trash.saco": {
+   "files": [
+    "trash/saco_1.ogg",
+    "trash/saco_2.ogg",
+    "trash/saco_3.ogg"
+   ],
+   "vol": 0.7
+  },
+  "trawler.despejar": {
+   "files": [
+    "trawler/despejar_1.ogg"
+   ],
+   "vol": 0.8
+  },
+  "trawler.lancar": {
+   "files": [
+    "trawler/lancar_1.ogg",
+    "trawler/lancar_2.ogg",
+    "trawler/lancar_3.ogg"
+   ],
+   "vol": 0.8
+  },
+  "trawler.peixes": {
+   "files": [
+    "trawler/peixes_1.ogg",
+    "trawler/peixes_2.ogg"
+   ],
+   "vol": 0.7
+  },
+  "trawler.puxar": {
+   "files": [
+    "trawler/puxar_1.ogg",
+    "trawler/puxar_2.ogg",
+    "trawler/puxar_3.ogg"
+   ],
+   "vol": 0.8
+  },
+  "trucker.engate": {
+   "files": [
+    "trucker/engate_1.ogg",
+    "trucker/engate_2.ogg"
+   ],
+   "vol": 0.8
+  },
+  "trucker.freio": {
+   "files": [
+    "trucker/freio_1.ogg",
+    "trucker/freio_2.ogg",
+    "trucker/freio_3.ogg"
+   ],
+   "vol": 0.6
+  }
+ }
+}
