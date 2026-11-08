@@ -1,6 +1,16 @@
 Sons dos empregos do rvt_jobs (Neon). Gravações reais do freesound.org, todas em Creative Commons 0
 (domínio público). Foram só cortadas, normalizadas, com fade e às vezes filtradas; nada sintetizado.
 
+[amb]
+cidade_110310  https://freesound.org/people/nickpursehouse/sounds/110310/
+industrial_634330  https://freesound.org/people/Janosch-JR/sounds/634330/
+interior_135097  https://freesound.org/people/mzui/sounds/135097/
+lanchonete_28204  https://freesound.org/people/moxobna/sounds/28204/
+marina_453767  https://freesound.org/people/kyles/sounds/453767/
+mata_385280  https://freesound.org/people/bajko/sounds/385280/
+porto_561815  https://freesound.org/people/Kinoton/sounds/561815/
+praia_468751  https://freesound.org/people/felix.blume/sounds/468751/
+
 [bancada]
 balcao_398281  https://freesound.org/people/FlashTrauma/sounds/398281/
 batata_667767  https://freesound.org/people/nicandali/sounds/667767/

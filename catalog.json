@@ -1,6 +1,54 @@
 {
  "version": 1,
  "sounds": {
+  "amb.cidade": {
+   "files": [
+    "amb/cidade_1.ogg"
+   ],
+   "vol": 1.0
+  },
+  "amb.industrial": {
+   "files": [
+    "amb/industrial_1.ogg"
+   ],
+   "vol": 1.0
+  },
+  "amb.interior": {
+   "files": [
+    "amb/interior_1.ogg"
+   ],
+   "vol": 1.0
+  },
+  "amb.lanchonete": {
+   "files": [
+    "amb/lanchonete_1.ogg"
+   ],
+   "vol": 1.0
+  },
+  "amb.marina": {
+   "files": [
+    "amb/marina_1.ogg"
+   ],
+   "vol": 1.0
+  },
+  "amb.mata": {
+   "files": [
+    "amb/mata_1.ogg"
+   ],
+   "vol": 1.0
+  },
+  "amb.porto": {
+   "files": [
+    "amb/porto_1.ogg"
+   ],
+   "vol": 1.0
+  },
+  "amb.praia": {
+   "files": [
+    "amb/praia_1.ogg"
+   ],
+   "vol": 1.0
+  },
   "bancada.balcao": {
    "files": [
     "bancada/balcao_1.ogg"
