@@ -111,6 +111,9 @@ log_584891  https://freesound.org/people/KrystianPawlowski/sounds/584891/
 push_565727  https://freesound.org/people/ralph.whitehead/sounds/565727/
 thud_400188  https://freesound.org/people/opriema/sounds/400188/
 
+[npc]
+vozes  Vozes dos NPCs geradas no ElevenLabs (Eleven v4) na conta do servidor, plano pago com uso comercial.
+
 [postop]
 caixas_452569  https://freesound.org/people/kyles/sounds/452569/
 mesa_491094  https://freesound.org/people/FlirtFM/sounds/491094/

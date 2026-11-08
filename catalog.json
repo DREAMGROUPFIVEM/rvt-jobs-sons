@@ -431,6 +431,706 @@
    ],
    "vol": 0.8
   },
+  "npc.bus.hello_1": {
+   "files": [
+    "npc/bus/hello_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 4.99
+  },
+  "npc.bus.story_1": {
+   "files": [
+    "npc/bus/story_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 6.77
+  },
+  "npc.bus.story_2": {
+   "files": [
+    "npc/bus/story_2.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 6.03
+  },
+  "npc.bus.story_3": {
+   "files": [
+    "npc/bus/story_3.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 6.03
+  },
+  "npc.bus.story_4": {
+   "files": [
+    "npc/bus/story_4.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 5.8
+  },
+  "npc.diver.hello_1": {
+   "files": [
+    "npc/diver/hello_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 4.78
+  },
+  "npc.diver.story_1": {
+   "files": [
+    "npc/diver/story_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 6.53
+  },
+  "npc.diver.story_2": {
+   "files": [
+    "npc/diver/story_2.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 5.49
+  },
+  "npc.diver.story_3": {
+   "files": [
+    "npc/diver/story_3.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 6.92
+  },
+  "npc.diver.story_4": {
+   "files": [
+    "npc/diver/story_4.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 8.52
+  },
+  "npc.diver.story_5": {
+   "files": [
+    "npc/diver/story_5.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 3.79
+  },
+  "npc.fooddelivery.hello_1": {
+   "files": [
+    "npc/fooddelivery/hello_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 4.05
+  },
+  "npc.fooddelivery.story_1": {
+   "files": [
+    "npc/fooddelivery/story_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 6.19
+  },
+  "npc.fooddelivery.story_2": {
+   "files": [
+    "npc/fooddelivery/story_2.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 10.03
+  },
+  "npc.fooddelivery.story_3": {
+   "files": [
+    "npc/fooddelivery/story_3.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 5.49
+  },
+  "npc.fooddelivery.story_4": {
+   "files": [
+    "npc/fooddelivery/story_4.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 5.96
+  },
+  "npc.foodtruck.hello_1": {
+   "files": [
+    "npc/foodtruck/hello_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 4.13
+  },
+  "npc.foodtruck.story_1": {
+   "files": [
+    "npc/foodtruck/story_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 6.53
+  },
+  "npc.foodtruck.story_2": {
+   "files": [
+    "npc/foodtruck/story_2.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 5.56
+  },
+  "npc.foodtruck.story_3": {
+   "files": [
+    "npc/foodtruck/story_3.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 7.42
+  },
+  "npc.foodtruck.story_4": {
+   "files": [
+    "npc/foodtruck/story_4.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 6.92
+  },
+  "npc.foodtruck.story_5": {
+   "files": [
+    "npc/foodtruck/story_5.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 5.15
+  },
+  "npc.hunter.barco": {
+   "files": [
+    "npc/hunter/barco.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 11.81
+  },
+  "npc.hunter.hello_1": {
+   "files": [
+    "npc/hunter/hello_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 6.35
+  },
+  "npc.hunter.story_1": {
+   "files": [
+    "npc/hunter/story_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 6.84
+  },
+  "npc.hunter.story_2": {
+   "files": [
+    "npc/hunter/story_2.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 8.2
+  },
+  "npc.hunter.story_3": {
+   "files": [
+    "npc/hunter/story_3.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 7.31
+  },
+  "npc.hunter.story_4": {
+   "files": [
+    "npc/hunter/story_4.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 8.2
+  },
+  "npc.hunter.story_5": {
+   "files": [
+    "npc/hunter/story_5.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 12.04
+  },
+  "npc.lineman.hello_1": {
+   "files": [
+    "npc/lineman/hello_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 3.97
+  },
+  "npc.lineman.story_1": {
+   "files": [
+    "npc/lineman/story_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 7.71
+  },
+  "npc.lineman.story_2": {
+   "files": [
+    "npc/lineman/story_2.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 8.91
+  },
+  "npc.lineman.story_3": {
+   "files": [
+    "npc/lineman/story_3.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 8.78
+  },
+  "npc.lineman.story_4": {
+   "files": [
+    "npc/lineman/story_4.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 9.17
+  },
+  "npc.lineman.story_5": {
+   "files": [
+    "npc/lineman/story_5.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 8.86
+  },
+  "npc.lumberjack.hello_1": {
+   "files": [
+    "npc/lumberjack/hello_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 4.44
+  },
+  "npc.lumberjack.story_1": {
+   "files": [
+    "npc/lumberjack/story_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 5.88
+  },
+  "npc.lumberjack.story_2": {
+   "files": [
+    "npc/lumberjack/story_2.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 6.27
+  },
+  "npc.lumberjack.story_3": {
+   "files": [
+    "npc/lumberjack/story_3.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 6.35
+  },
+  "npc.lumberjack.story_4": {
+   "files": [
+    "npc/lumberjack/story_4.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 7.81
+  },
+  "npc.lumberjack.story_5": {
+   "files": [
+    "npc/lumberjack/story_5.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 4.99
+  },
+  "npc.manicure.hello_1": {
+   "files": [
+    "npc/manicure/hello_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 4.62
+  },
+  "npc.manicure.story_1": {
+   "files": [
+    "npc/manicure/story_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 7.31
+  },
+  "npc.manicure.story_2": {
+   "files": [
+    "npc/manicure/story_2.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 9.56
+  },
+  "npc.manicure.story_3": {
+   "files": [
+    "npc/manicure/story_3.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 7.55
+  },
+  "npc.manicure.story_4": {
+   "files": [
+    "npc/manicure/story_4.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 6.27
+  },
+  "npc.miner.hello_1": {
+   "files": [
+    "npc/miner/hello_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 5.25
+  },
+  "npc.miner.story_1": {
+   "files": [
+    "npc/miner/story_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 6.61
+  },
+  "npc.miner.story_2": {
+   "files": [
+    "npc/miner/story_2.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 10.84
+  },
+  "npc.miner.story_3": {
+   "files": [
+    "npc/miner/story_3.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 7.55
+  },
+  "npc.miner.story_4": {
+   "files": [
+    "npc/miner/story_4.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 8.99
+  },
+  "npc.miner.story_5": {
+   "files": [
+    "npc/miner/story_5.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 6.87
+  },
+  "npc.miner.story_6": {
+   "files": [
+    "npc/miner/story_6.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 7.0
+  },
+  "npc.movers.hello_1": {
+   "files": [
+    "npc/movers/hello_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 7.39
+  },
+  "npc.movers.hello_2": {
+   "files": [
+    "npc/movers/hello_2.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 4.68
+  },
+  "npc.movers.story_1": {
+   "files": [
+    "npc/movers/story_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 5.8
+  },
+  "npc.movers.story_2": {
+   "files": [
+    "npc/movers/story_2.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 7.63
+  },
+  "npc.movers.story_3": {
+   "files": [
+    "npc/movers/story_3.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 9.72
+  },
+  "npc.movers.story_4": {
+   "files": [
+    "npc/movers/story_4.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 9.64
+  },
+  "npc.movers.story_5": {
+   "files": [
+    "npc/movers/story_5.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 8.36
+  },
+  "npc.painter.hello_1": {
+   "files": [
+    "npc/painter/hello_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 3.97
+  },
+  "npc.painter.story_1": {
+   "files": [
+    "npc/painter/story_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 6.61
+  },
+  "npc.painter.story_2": {
+   "files": [
+    "npc/painter/story_2.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 7.55
+  },
+  "npc.painter.story_3": {
+   "files": [
+    "npc/painter/story_3.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 7.16
+  },
+  "npc.painter.story_4": {
+   "files": [
+    "npc/painter/story_4.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 6.84
+  },
+  "npc.petgroom.hello_1": {
+   "files": [
+    "npc/petgroom/hello_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 3.32
+  },
+  "npc.petgroom.marta_1": {
+   "files": [
+    "npc/petgroom/marta_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 4.83
+  },
+  "npc.petgroom.marta_2": {
+   "files": [
+    "npc/petgroom/marta_2.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 6.03
+  },
+  "npc.petgroom.marta_3": {
+   "files": [
+    "npc/petgroom/marta_3.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 9.87
+  },
+  "npc.petgroom.marta_4": {
+   "files": [
+    "npc/petgroom/marta_4.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 8.12
+  },
+  "npc.petgroom.story_1": {
+   "files": [
+    "npc/petgroom/story_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 6.37
+  },
+  "npc.petgroom.story_2": {
+   "files": [
+    "npc/petgroom/story_2.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 4.91
+  },
+  "npc.petgroom.story_3": {
+   "files": [
+    "npc/petgroom/story_3.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 8.05
+  },
+  "npc.petgroom.story_4": {
+   "files": [
+    "npc/petgroom/story_4.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 7.08
+  },
+  "npc.postop.hello_1": {
+   "files": [
+    "npc/postop/hello_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 4.05
+  },
+  "npc.postop.story_1": {
+   "files": [
+    "npc/postop/story_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 7.08
+  },
+  "npc.postop.story_2": {
+   "files": [
+    "npc/postop/story_2.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 6.03
+  },
+  "npc.postop.story_3": {
+   "files": [
+    "npc/postop/story_3.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 5.9
+  },
+  "npc.postop.story_4": {
+   "files": [
+    "npc/postop/story_4.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 7.24
+  },
+  "npc.taxi.hello_1": {
+   "files": [
+    "npc/taxi/hello_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 4.05
+  },
+  "npc.taxi.story_1": {
+   "files": [
+    "npc/taxi/story_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 7.47
+  },
+  "npc.taxi.story_2": {
+   "files": [
+    "npc/taxi/story_2.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 6.43
+  },
+  "npc.taxi.story_3": {
+   "files": [
+    "npc/taxi/story_3.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 5.8
+  },
+  "npc.taxi.story_4": {
+   "files": [
+    "npc/taxi/story_4.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 5.41
+  },
+  "npc.trash.hello_1": {
+   "files": [
+    "npc/trash/hello_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 4.52
+  },
+  "npc.trash.story_1": {
+   "files": [
+    "npc/trash/story_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 6.14
+  },
+  "npc.trash.story_2": {
+   "files": [
+    "npc/trash/story_2.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 7.39
+  },
+  "npc.trash.story_3": {
+   "files": [
+    "npc/trash/story_3.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 6.27
+  },
+  "npc.trash.story_4": {
+   "files": [
+    "npc/trash/story_4.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 8.52
+  },
+  "npc.trawler.hello_1": {
+   "files": [
+    "npc/trawler/hello_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 3.87
+  },
+  "npc.trawler.story_1": {
+   "files": [
+    "npc/trawler/story_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 6.19
+  },
+  "npc.trawler.story_2": {
+   "files": [
+    "npc/trawler/story_2.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 5.56
+  },
+  "npc.trawler.story_3": {
+   "files": [
+    "npc/trawler/story_3.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 7.89
+  },
+  "npc.trawler.story_4": {
+   "files": [
+    "npc/trawler/story_4.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 6.19
+  },
+  "npc.trawler.story_5": {
+   "files": [
+    "npc/trawler/story_5.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 4.6
+  },
+  "npc.trucker.hello_1": {
+   "files": [
+    "npc/trucker/hello_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 3.71
+  },
+  "npc.trucker.story_1": {
+   "files": [
+    "npc/trucker/story_1.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 5.56
+  },
+  "npc.trucker.story_2": {
+   "files": [
+    "npc/trucker/story_2.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 6.27
+  },
+  "npc.trucker.story_3": {
+   "files": [
+    "npc/trucker/story_3.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 5.72
+  },
+  "npc.trucker.story_4": {
+   "files": [
+    "npc/trucker/story_4.ogg"
+   ],
+   "vol": 1.0,
+   "dur": 5.88
+  },
   "postop.caixa": {
    "files": [
     "postop/caixa_1.ogg",
