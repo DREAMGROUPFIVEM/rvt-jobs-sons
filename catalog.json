@@ -64,7 +64,10 @@
   "bancada.borrifo": {
    "files": [
     "bancada/borrifo_1.ogg",
-    "bancada/borrifo_2.ogg"
+    "bancada/borrifo_2.ogg",
+    "bancada/borrifo_3.ogg",
+    "bancada/borrifo_4.ogg",
+    "bancada/borrifo_5.ogg"
    ],
    "vol": 0.9
   },
@@ -186,7 +189,10 @@
    "files": [
     "bancada/unha_1.ogg",
     "bancada/unha_2.ogg",
-    "bancada/unha_3.ogg"
+    "bancada/unha_3.ogg",
+    "bancada/unha_4.ogg",
+    "bancada/unha_5.ogg",
+    "bancada/unha_6.ogg"
    ],
    "vol": 0.9
   },

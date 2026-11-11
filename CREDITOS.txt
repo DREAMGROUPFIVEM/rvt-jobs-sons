@@ -16,6 +16,8 @@ balcao_398281  https://freesound.org/people/FlashTrauma/sounds/398281/
 batata_667767  https://freesound.org/people/nicandali/sounds/667767/
 borrifo_235621  https://freesound.org/people/vmgraw/sounds/235621/
 borrifo_536407  https://freesound.org/people/Rudmer_Rotteveel/sounds/536407/
+borrifo_656653  https://freesound.org/people/Greenbird11/sounds/656653/
+borrifo_788779  https://freesound.org/people/rombart/sounds/788779/
 carne_581640  https://freesound.org/people/zar.265/sounds/581640/
 cesto_637625  https://freesound.org/people/kyles/sounds/637625/
 chiado_432151  https://freesound.org/people/pooky1/sounds/432151/
@@ -36,7 +38,9 @@ tesoura_390165  https://freesound.org/people/megashroom/sounds/390165/
 tesoura_390169  https://freesound.org/people/megashroom/sounds/390169/
 tick_384187  https://freesound.org/people/malle99/sounds/384187/
 tick_496760  https://freesound.org/people/malle99/sounds/496760/
+unha_189676  https://freesound.org/people/sangtao/sounds/189676/
 unha_495844  https://freesound.org/people/lighteningjimmy88/sounds/495844/
+unha_593600  https://freesound.org/people/Rehanjo/sounds/593600/
 
 [bus]
 porta_379372  https://freesound.org/people/13FPanska_Sychra_Petr/sounds/379372/
